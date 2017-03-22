@@ -2,6 +2,8 @@
 
 COMSOL project files used for compulational fluid dynamics simulations of droplets covered with magnetic nanosurfactant and heated by laser radiation.
 
+These files are compatible with COMSOL Multiphysics version 5.1 or higher.
+
 File `one_droplet__spot_on_the_bottom.mph` corresponds to Figure S7 in Supplementary materials: flows inside and outside of a single droplet when the region heated by the laser is located below the mid-level (“equator”) of the droplet.
 
 File `one_droplet__spot_on_middle.mph` corresponds to Figure S8 in Supplementary materials: flows inside and outside of a single droplet when the region heated by the laser is located at the mid-level (“equator”) of the droplet.
