@@ -9,7 +9,7 @@ File 'one_droplet__spot_on_middle.mph' corresponds to Figure S8 in Supplementary
 File 'one_droplet__spot_on_higher_place.mph' corresponds to Figure S9 in Supplementary materials: flows inside and outside of a single droplet when the region heated by the laser is located above the mid-level (“equator”) of the droplet.
 
 Geometries depicted on Figure 4g, 4h and 4i corresponds to files
-	two_droplets__spot_in_between.mph
-	two_droplets__spot_on_the_left.mph
-	two_droplets__spot_on_top.mph
+	'two_droplets__spot_in_between.mph',
+	'two_droplets__spot_on_the_left.mph', and
+	'two_droplets__spot_on_top.mph',
 respectively. In these geometries, two droplets are in contact with each other, and laser radiation heats different parts of the droplet surfaces.
