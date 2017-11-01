@@ -1,3 +1,5 @@
+![DOI identifier image](https://zenodo.org/badge/DOI/10.5281/zenodo.1040169.svg)
+
 # Project files for the fluid dynamics simulations described in the research article "Systems of mechanized and reactive droplets powered by multiresponsive nanosurfactants".
 
 This is a repository of COMSOL project files used for computational fluid dynamics of the laser-induced rotation and translation of water droplets that were covered with multiresponsive surfactant and immersed in oil.
