@@ -1,4 +1,8 @@
-These files are compatible with COMSOL Multiphysics version 5.1 or higher.
+# Computational fluid dynamics of the laser-induced rotation and translation of water droplets that were covered with multiresponsive surfactant and immersed in oil
+
+For more details, see the research article "Systems of mechanized and reactive droplets powered by multiresponsive nanosurfactants" published in 2017 in the journal "*Nature*". Here, I will reference figures from this article and its Supplementary materials text.
+
+These project files are compatible with COMSOL Multiphysics version 5.1 or higher.
 
 File `one_droplet__spot_on_the_bottom.mph` corresponds to Figure S7 in Supplementary materials: flows inside and outside of a single droplet when the region heated by the laser is located below the mid-level (“equator”) of the droplet.
 
@@ -6,7 +10,7 @@ File `one_droplet__spot_on_middle.mph` corresponds to Figure S8 in Supplementary
 
 File `one_droplet__spot_on_higher_place.mph` corresponds to Figure S9 in Supplementary materials: flows inside and outside of a single droplet when the region heated by the laser is located above the mid-level (“equator”) of the droplet.
 
-Geometries depicted on Figure 4g, 4h and 4i corresponds to files
+Geometries depicted on Figure 4f, 4g and 4h in the main text correspond to files
 	`two_droplets__spot_in_between.mph`,
 	`two_droplets__spot_on_the_left.mph`, and
 	`two_droplets__spot_on_top.mph`,
