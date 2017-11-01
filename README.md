@@ -4,7 +4,7 @@ This is a repository of COMSOL project files used for computational fluid dynami
 
 For more details, see the research article:
 
-	Zhijie Yang, Jingjing Wei, Yaroslav Sobolev, Bartosz A. Grzybowski, "Systems of mechanized and reactive droplets powered by multiresponsive nanosurfactants", *Nature*, **2017**.
+Zhijie Yang, Jingjing Wei, Yaroslav Sobolev, Bartosz A. Grzybowski, "Systems of mechanized and reactive droplets powered by multiresponsive nanosurfactants", *Nature*, **2017**.
 	
 Here, I will reference figures from this article and its Supplementary materials text.
 
