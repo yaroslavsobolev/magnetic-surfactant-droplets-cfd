@@ -1,6 +1,10 @@
-# Computational fluid dynamics of the laser-induced rotation and translation of water droplets that were covered with multiresponsive surfactant and immersed in oil
+# Project files for the fluid dynamics simulations described in the research article "Systems of mechanized and reactive droplets powered by multiresponsive nanosurfactants".
 
-For more details, see the research article "Systems of mechanized and reactive droplets powered by multiresponsive nanosurfactants" published in 2017 in the journal "*Nature*". Here, I will reference figures from this article and its Supplementary materials text.
+This is a repository of COMSOL project files used for computational fluid dynamics of the laser-induced rotation and translation of water droplets that were covered with multiresponsive surfactant and immersed in oil.
+
+For more details, see the research article:
+Zhijie Yang, Jingjing Wei, Yaroslav Sobolev, Bartosz A. Grzybowski, "Systems of mechanized and reactive droplets powered by multiresponsive nanosurfactants", *Nature*, **2017**.
+Here, I will reference figures from this article and its Supplementary materials text.
 
 These project files are compatible with COMSOL Multiphysics version 5.1 or higher.
 
